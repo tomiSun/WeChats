@@ -1,0 +1,31 @@
+.list-time{
+	font-size:12px ;
+	float: right;
+	color: rgba(132, 131, 138, 0.96);
+}
+.mui-title,.tilte-weixin{
+	text-align: left;
+	color: #FFFFFF;
+}
+
+.mui-bar .mui-bar-nav,.head{
+background-color: #423737;
+}
+.mui-bar .mui-title{
+	right: 10px;
+    left: 10px;
+}
+.mui-icon-search:before{
+	    color: #FBF9F9;
+	     margin-right: 30px;
+}
+.mui-icon-plusempty:before{
+	color: #FBF9F9;
+}
+.mui-content > .mui-table-view:first-child{
+	margin-top:0px;
+}
+.mui-content{
+	margin-top:10px;
+	}
+

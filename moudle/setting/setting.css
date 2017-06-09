@@ -1,0 +1,36 @@
+.mui-table-view{
+	margin-top: 25px;
+}
+.mui-navigate-right.tuichu{
+	text-align: center;
+}
+.safe-status{
+	float: right;
+	margin-right: 20px;
+	font-size: 14px;
+	color: gray;
+	height: 16px;
+}
+.safe-status img{
+	height: 100%;
+	margin-right: 5px;
+}
+.safe-status *{
+	vertical-align: middle;
+}
+.mui-popover.mui-popover-action .mui-table-view{
+	color: #000000;
+}
+.logout{
+	font-size: 12px;
+	color: green;
+}
+#loginout{
+	color: red;
+}
+.cancel-box{
+	margin-top: 8px;
+}
+#sheet{
+	background-color: #efeff4!important;
+}

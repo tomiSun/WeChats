@@ -1,0 +1,152 @@
+{
+  "moudle/login/login.html": {
+    "resources": [
+      "moudle/login/login.js",
+      "commom/js/mui.js",
+      "commom/css/mui.css",
+      "moudle/login/login.css",
+      "fonts/mui.ttf"
+    ],
+    "refer": [
+      "moudle/main/main.html"
+    ]
+  },
+  "moudle/address-book/address-book.html": {
+    "resources": [
+      "moudle/address-book/address-book.js",
+      "moudle/address-book/address-book.css",
+      "fonts/mui.indexedlist.css",
+      "fonts/mui.indexedlist.js",
+      "commom/img/huluwa.png",
+      "fonts/mui.ttf",
+      "commom/js/mui.js",
+      "commom/css/mui.css",
+      "fonts/app.css",
+      "moudle/address-book/dlan.png",
+      "moudle/address-book/pink.png",
+      "moudle/address-book/tlan.png",
+      "moudle/address-book/glog.png",
+      "moudle/address-book/tnoy.png",
+      "moudle/address-book/easy.jpg",
+      "moudle/address-book/pink2.png",
+      "moudle/address-book/candy.png",
+      "moudle/address-book/you.png",
+      "moudle/address-book/flans.png",
+      "moudle/address-book/baby.png",
+      "moudle/address-book/zuo.png",
+      "moudle/address-book/thong.png",
+      "moudle/address-book/ciny.png"
+    ],
+    "refer": []
+  },
+  "moudle/main/main.html": {
+    "resources": [
+      "moudle/message/message.html",
+      "fonts/iconfont.css",
+      "moudle/main/main.js",
+      "moudle/main/main.css",
+      "fonts/iconfont.woff",
+      "commom/js/mui.js",
+      "commom/css/mui.css",
+      "moudle/address-book/address-book.js"
+    ],
+    "refer": [
+      "moudle/message/message.html",
+      "moudle/discover/discover.html",
+      "moudle/address-book/address-book.html",
+      "moudle/mine/mine.html"
+    ]
+  },
+  "moudle/message/message.html": {
+    "resources": [
+      "moudle/message/message.js",
+      "commom/img/huluwa.png",
+      "moudle/message/message.css",
+      "fonts/mui.ttf",
+      "moudle/chat/nan.png",
+      "fonts/app.css",
+      "moudle/chat/zuo.png"
+    ],
+    "refer": []
+  },
+  "moudle/discover/discover.html": {
+    "resources": [
+      "moudle/discover/discover.css",
+      "moudle/discover/discover.js",
+      "commom/js/mui.js",
+      "commom/css/mui.css",
+      "moudle/discover/G\u0000G.png",
+      "moudle/discover/DDý.png",
+      "moudle/discover/8\u000f.png",
+      "moudle/discover/\u000bý\b.png",
+      "moudle/discover/\u000f\u000bý.png",
+      "moudle/discover/-i.png",
+      "moudle/discover/k\u0000k.png",
+      "moudle/discover/saoyisao.png",
+      "fonts/mui.ttf",
+      "fonts/app.css",
+      "moudle/discover/fujinderen.png",
+      "moudle/discover/gouwu.png",
+      "moudle/discover/xiaochengxu.png",
+      "moudle/discover/youxi.png",
+      "moudle/discover/pengyouquan.png",
+      "moudle/discover/yaoyiyao.png"
+    ],
+    "refer": [
+      "moudle/scan/scan.html",
+      "moudle/shake/shake.html"
+    ]
+  },
+  "moudle/mine/mine.html": {
+    "resources": [
+      "moudle/mine/mine.js",
+      "moudle/mine/mine.css",
+      "moudle/mine/ýý\u0001.png",
+      "moudle/mine/ý.png",
+      "moudle/mine/ý\u0005.png",
+      "moudle/mine/hý.png",
+      "moudle/mine/ýn.png",
+      "moudle/mine/a\u0005.png",
+      "moudle/mine/6ý.png",
+      "commom/js/mui.js",
+      "fonts/mui.ttf",
+      "fonts/app.css",
+      "moudle/mine/kabao.png",
+      "moudle/mine/biaoqing.png",
+      "moudle/mine/xiangce.png",
+      "moudle/mine/shoucang.png",
+      "commom/css/mui.css",
+      "moudle/mine/qianbao.png",
+      "moudle/mine/shezhi.png",
+      "commom/img/huluwa.png",
+      "moudle/mine/erweima.png"
+    ],
+    "refer": []
+  },
+  "moudle/scan/scan.html": {
+    "resources": [
+      "moudle/scan/scan.js",
+      "moudle/scan/scan.css",
+      "fonts/iconfont.css",
+      "commom/js/mui.js",
+      "fonts/mui.ttf",
+      "fonts/app.css",
+      "commom/css/mui.css"
+    ]
+  },
+  "moudle/shake/shake.html": {
+    "resources": [
+      "moudle/shake/shake.css",
+      "moudle/shake/xia.png",
+      "moudle/shake/fijin.png",
+      "moudle/shake/shake.js",
+      "moudle/shake/shang.png",
+      "commom/js/mui.js",
+      "fonts/mui.ttf",
+      "fonts/app.css",
+      "commom/css/mui.css",
+      "moudle/shake/fijin2.png",
+      "moudle/shake/fijin3.png"
+    ]
+  }
+}
